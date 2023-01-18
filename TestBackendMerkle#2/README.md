@@ -20,6 +20,7 @@ Menambah data
 POST /tamu
 ```
 ADMIN
+```
 GET /admin/tamu
 ```
 Menghapus data
@@ -27,7 +28,6 @@ Menghapus data
 DELETE /admin/tamu:id
 ```
 
-### Url path admin
 Menambahkan Admin
 ```
 POST /admin
